@@ -1,6 +1,0 @@
-streamlit
-spotipy
-deepface
-pandas
-opencv-python-headless
-numpy
