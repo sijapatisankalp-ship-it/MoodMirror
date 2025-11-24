@@ -4,6 +4,8 @@ import spotipy  # pyright: ignore[reportMissingImports]
 from spotipy.oauth2 import SpotifyClientCredentials  # pyright: ignore[reportMissingImports]
 from deepface import DeepFace  # pyright: ignore[reportMissingImports]
 import cv2
+import keras
+
 import numpy as np
 import tempfile
 import os
